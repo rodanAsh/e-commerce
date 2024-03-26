@@ -1,5 +1,7 @@
 # E-commerce Clothing Store Website
 
+live Demo - https://khaadi-ecommerce-clothingstore.pages.dev/
+
 ## Overview
 
 This project is an E-commerce clothing store website built using React. It provides a user-friendly interface for browsing and purchasing a variety of clothing items.
