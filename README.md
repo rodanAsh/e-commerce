@@ -1,6 +1,6 @@
 # E-commerce Clothing Store Website
 
-live Demo - https://khaadi-ecommerce-clothingstore.pages.dev/
+live Demo - https://khaadi-ecom-website.pages.dev/
 
 ## Overview
 
