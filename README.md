@@ -19,9 +19,8 @@ This project is an E-commerce clothing store website built using React. It provi
 
 - React
 - React Router (for navigation)
-- Redux (for state management)
 - Styled Components (for styling)
-- Axios (for API requests)
+- Context Api (for API requests)
 - Other dependencies as needed
 
 ## Getting Started
