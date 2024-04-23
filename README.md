@@ -54,12 +54,9 @@ Project Structure
 
 /src: Contains the source code of the application.
 /components: React components used in the application.
-/containers: Higher-level components that manage state and data.
-/redux: Redux store configuration and actions.
 /styles: Stylesheets for styling components.
-/services: API services for data fetching.
+/context: API services for data fetching.
 /assets: Images, fonts, or other static assets.
-/utils: Utility functions.
 
 Responsive Design
 The project is currently in development, and one of the upcoming goals is to make the website fully responsive. Contributions and suggestions on improving the responsiveness of the application are welcome!
