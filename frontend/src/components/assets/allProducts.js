@@ -286,7 +286,200 @@ let all_products = [
         image : "https://assets.ajio.com/medias/sys_master/root/20231013/lN7p/65294780ddf779151939f09a/-1117Wx1400H-466704307-navy-MODEL.jpg",
         new_price : 85.00,
         old_price : 120.00
+    },
+    {
+        id : 37,
+        name : "THE INDIAN GARAGE CO Men Checked Slim Fit Shirt with Patch Pocket",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240619/25CT/6672f9821d763220fad4aa1b/-473Wx593H-469618803-coral-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 38,
+        name : "TOMMY HILFIGER Men Brand Print Regular Fit Sweatshirt",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240710/najV/668ea0af1d763220fa5074e7/-1117Wx1400H-469663060-navy-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 39,
+        name : "THE INDIAN GARAGE CO Checked Shirt with Buttoned Flap Pockets",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20230728/uqAa/64c3bc24a9b42d15c977e016/-1117Wx1400H-469063063-maroon-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 40,
+        name : "JUMP CUTS Typographic Print Loose Fit T-Shirt",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20230629/MNyz/649ce963a9b42d15c91f438e/-1117Wx1400H-466063370-black-MODEL3.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 41,
+        name : "CAMPUS SUTRA Men Ribbed Regular Fit Shirt",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240507/mdc0/663a557116fd2c6e6af0eee9/-1117Wx1400H-467293008-brown-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 42,
+        name : "THE INDIAN GARAGE CO Denim Trucker Jacket with Patch Pockets",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20230728/iirw/64c3b5dba9b42d15c977b141/-1117Wx1400H-469095751-tan-MODEL2.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 43,
+        name : "CLAFOUTIS Men Typographic Print Loose Fit Crew-Neck T-Shirt",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240731/N5hY/66aa67726f60443f31de105a/-1117Wx1400H-700247592-black-MODEL2.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 44,
+        name : "NETPLAYMen Striped Slim Fit Shirt",
+        category : "men",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240923/MTi5/66f13687f9b8ef490b5b4acc/-1117Wx1400H-443281430-offwhite-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 45,
+        name : "BUYNEWTREND Denim Bomber Jacket",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20231115/kUeq/6554f692ddf779151980f421/-1117Wx1400H-465929209-blue-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 46,
+        name : "U.S. POLO ASSN. Women Relaxed Fit Puffer Jacket",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240226/9hjH/65dc362005ac7d77bb7a2567/-1117Wx1400H-469549521-royalblue-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 47,
+        name : "GAP Women Floral Print Relaxed Fit Pullover",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240823/7uvq/66c8b27d1d763220fa94da7b/-1117Wx1400H-442319273-black-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 48,
+        name : "ONLY Women Striped Round-Neck Pullover",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20231028/JRUN/653cca8bddf77915196015f8/-1117Wx1400H-442384508-cream-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 49,
+        name : "STYLUM Floral Print A-line Kurta",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240718/wpA2/6698c7ca6f60443f316f5541/-1117Wx1400H-464342145-blue-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 50,
+        name : "FERY LONDON Women Striped Regular Fit Top",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20231116/G7ct/655547e6ddf7791519865139/-1117Wx1400H-466799276-red-MODEL4.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 51,
+        name : "AZIRA Women Floral Print Regular Fit Peplum Top",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240405/TY8l/660f29a916fd2c6e6a9e3442/-1117Wx1400H-467099247-blue-MODEL3.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 52,
+        name : "TEAMSPIRIT Women Embroidered Regular Fit Sweatshirt",
+        category : "women",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240814/i9Jv/66bc8be66f60443f3108dbe1/-1117Wx1400H-443046716-brown-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 53,
+        name : "SKY PEARL Boys Checked Regular Fit Shirt with Patch Pocket",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240215/kI4v/65ce3b2816fd2c6e6afde734/-1117Wx1400H-467078005-white-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 54,
+        name : "LIBAS KIDS Girls Floral A-Line Kurta Salwar Suit Set",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240814/vdkp/66bbd0141d763220fa78e4db/-1117Wx1400H-700287041-pink-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 55,
+        name : "PSPEACHES Floral Kurta Suit Set",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240424/242b/6628d0df05ac7d77bb24d185/-1117Wx1400H-465025772-pink-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 56,
+        name : "FORCE Stripes Round Neck T-shirt",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20230621/V7DC/64929494d55b7d0c6391af7a/-1117Wx1400H-464131335-multi-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 57,
+        name : "FORCE Typographic Print Crew-Neck T-shirt",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20230623/UhIm/6494bcb942f9e729d77c188b/-1117Wx1400H-464382767-navy-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 58,
+        name : "GAP KIDS Logo Print Flutter Sleeves T-Shirt",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240917/JaWV/66e968bb1d763220faeebe3a/-1117Wx1400H-442533130-pink-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 59,
+        name : "A.T.U.N ALL THINGS UBER NICE Polka-Dot Shirt Dress",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20231227/XJen/658c5027ddf7791519ef2dff/-1117Wx1400H-466924159-blue-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
+    },
+    {
+        id : 60,
+        name : "TIOR Girls Self-Design A-Line Dress",
+        category : "kids",
+        image : "https://assets.ajio.com/medias/sys_master/root/20240606/oF2z/6660c6e705ac7d77bba0fd92/-1117Wx1400H-700046923-black-MODEL.jpg",
+        new_price : 85.00,
+        old_price : 120.00
     }
+
 ]
 
 export default all_products

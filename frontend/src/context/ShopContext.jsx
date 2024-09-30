@@ -10,6 +10,7 @@ const getDefaultCart = () => {
     for(let index = 0; index<=all_products.length; index++){
         cart[index] = 0;
     }
+    console.log(cart)
     return cart;
 }
 
@@ -20,7 +21,7 @@ const ShopContextProvider = (props) => {
     const addToCart = (itemId) => {
         setCartItems((prev) => ({...prev,[itemId]:prev[itemId]+1}))
 
-        console.log(cartItems)
+        // console.log(cartItems)
     }
 
     const removeFromCart = (itemId) => {
@@ -44,7 +45,7 @@ const ShopContextProvider = (props) => {
             if(cartItems[item] > 0){
                 let itemInfo = all_products.find((product) => product.id === Number(item))
                 totalAmount += itemInfo.new_price * cartItems[item];
-                console.log(totalAmount)
+                // console.log(totalAmount)
             } 
         }
         return totalAmount;

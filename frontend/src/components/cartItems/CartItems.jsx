@@ -22,7 +22,7 @@ const CartItems = () => {
         {all_products.map((item) => {
             if(cartItems[item.id]>0)
             {
-                return  <div>
+                return  <div key={item.id}>
                             <div className="format format-main">
                                 <img src={item.image} alt="" className='product-icon'/>
                                 <p>{item.name}</p>
